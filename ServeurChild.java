@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Salah
+ * @author Mahmoud
  */
 public class ServeurChild extends Thread {
 
